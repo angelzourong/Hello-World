@@ -10,7 +10,7 @@ Hello it's a me!
 
 Even more awesome Angel<sup> hehexd it's on top </sup>
 
-:thinking: why can i not do color fonts in here. that makes me sad. :-1:
+<h1>:thinking: why can i not do color fonts in here. that makes me sad. :-1:</h1>
 
 >this is a thought
 
