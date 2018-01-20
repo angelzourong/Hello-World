@@ -1,6 +1,6 @@
 # Hello-World
 Hello it's a me!
-This is a strange and interesting beginning.
+<h1 style="color:Tomato;">This is a strange and interesting beginning.</h1>
 <br><b> does this work </b></br>
 <br><i> does this work too? </i></br>
 <br>Awesome Angel<sub> omg tiny </sub></br>
