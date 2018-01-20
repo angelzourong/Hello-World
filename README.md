@@ -3,9 +3,12 @@ Hello it's a me!
 <h1>This is a strange and interesting beginning.</h1>
 
 <b> does this work </b>
-<br><i> does this work too? </i></br>
-<br>Awesome Angel<sub> omg tiny </sub></br>
-<br>Even more awesome Angel<sup> hehexd it's on top </sup></br>
+
+<i> does this work too? </i>
+
+Awesome Angel<sub> omg tiny </sub>
+
+Even more awesome Angel<sup> hehexd it's on top </sup>
 
 :thinking:
-<
+
