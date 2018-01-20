@@ -2,3 +2,4 @@
 Hello it's a me!
 This is a strange and interesting beginning.
 <b> does this work </b>
+<i> does this work too? </i>
