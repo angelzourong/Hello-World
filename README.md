@@ -2,9 +2,9 @@
 Hello it's a me!
 <h1>This is a strange and interesting beginning.</h1>
 
-<b> does this work </b>
+** does this work **
 
-<i> does this work too? </i>
+*** does this work too? ***
 
 Awesome Angel<sub> omg tiny </sub>
 
