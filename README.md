@@ -10,5 +10,5 @@ Awesome Angel<sub> omg tiny </sub>
 
 Even more awesome Angel<sup> hehexd it's on top </sup>
 
-:thinking: why can i not do color fonts in here. that makes me sad. :sadface:
+:thinking: why can i not do color fonts in here. that makes me sad. :-1:
 
