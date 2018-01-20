@@ -14,4 +14,4 @@ Even more awesome Angel<sup> hehexd it's on top </sup>
 
 >this is a thought
 
-Not even [Google](www.google.ca) was able to help me add color, what is this non-sense?
+Not even [Google](https://google.ca) was able to help me add color, what is this non-sense?
