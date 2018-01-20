@@ -6,7 +6,7 @@ Hello it's a me!
 
 ***does this work too?***
 
-Awesome Angel<sub> omg tiny </sub>
+~~Awesome Angel<sub> omg tiny </sub>~~
 
 Even more awesome Angel<sup> hehexd it's on top </sup>
 
